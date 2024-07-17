@@ -12,10 +12,8 @@
 ### Requisitos de negócio - RN
 
 - [X] A transação pode ser do tipo crédito que somará ao valor total, ou débito que subtrairá;
-- [ ] Deve ser possível identificarmos o usuário entre as requisições;
-- [ ] O usuário só pode visualizar transações o qual ele criou;
-
-<!-- ## Requisitos não funcionais - RNF -->
+- [X] Deve ser possível identificarmos o usuário entre as requisições;
+- [X] O usuário só pode visualizar transações o qual ele criou;
 
 ## Cookies
 
